@@ -6,7 +6,7 @@
 - FiraSource-Regular.ttf直接安装即可
 - 字体名思源Fira
 <hr>
-word:
+Word:
 
 ![image](https://github.com/user-attachments/assets/124a77b4-60a0-479c-96bc-0b4bc3b943ce)
 
