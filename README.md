@@ -12,7 +12,7 @@ word:
 
 Burp：
 
--启动参数添加-Dsun.java2d.uiScale=1避免光标错位
+- 启动参数添加-Dsun.java2d.uiScale=1避免光标错位
 
 ![image](https://github.com/user-attachments/assets/fbf33bad-8f2a-4770-978b-da75a627d398)
 
