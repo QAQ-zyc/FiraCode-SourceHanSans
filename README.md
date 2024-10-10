@@ -14,5 +14,6 @@ Burp：
 
 - 启动参数添加-Dsun.java2d.uiScale=1避免光标错位
 
-![image](https://github.com/user-attachments/assets/fbf33bad-8f2a-4770-978b-da75a627d398)
+![image](https://github.com/user-attachments/assets/5c980f0b-6766-4ee7-a940-095dc52899ba)
 
+![image](https://github.com/user-attachments/assets/a07b65d3-186c-49b5-b583-6ed31f417aeb)
